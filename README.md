@@ -142,6 +142,11 @@ jupyter notebook
 
 ---
 
+Dataset:
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
+
+---
+
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
